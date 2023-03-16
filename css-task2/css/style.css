@@ -1,0 +1,40 @@
+text {
+    padding-left: 60px;
+}
+
+.center{
+    width: 90%;
+    margin: 0 auto;
+    padding: 0 700px;
+    box-sizing: border-box;
+    background-color: #EEEEEE;
+    
+}
+
+#google-img {
+    width: 351px;
+    height: 113px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bar {
+    text-align: center;
+    box-sizing: border-box;
+    width: 530px;
+    height: 80px;
+    background-color: #7EE5DA;
+    float: left;
+    margin-right: 5px;
+    padding: 10px 200px;
+}
+
+.clear
+{
+    clear: both;
+}
+
+.mid {
+    text-align: center;
+}
